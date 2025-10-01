@@ -1,5 +1,5 @@
 // ==WindhawkMod==
-// @id              explorer-double-f2-rename-extension
+// @id              explorer-double-f2-rename-extension-fork
 // @name            Select filename extension on double F2
 // @description     When pressing F2 in Explorer to rename a file, the filename is selected as usual, but double-pressing now selects the extension.
 // @version         1
